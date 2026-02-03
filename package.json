@@ -63,7 +63,7 @@
     "dayjs": "^1.11.19",
     "dotenv": "^17.2.3",
     "fast-glob": "^3.3.3",
-    "fastify": "^5.6.2",
+    "fastify": "^5.7.3",
     "fastify-plugin": "^5.1.0",
     "fastify-type-provider-zod": "^6.1.0",
     "fluent-ffmpeg": "^2.1.3",
